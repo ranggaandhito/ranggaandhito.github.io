@@ -1,0 +1,218 @@
+.header {
+    padding: 23px;
+    vertical-align: middle;
+  }
+  
+  .pp {
+    width: 50px;
+    border-radius:50%;
+    margin-left: 23px
+  }
+  
+  .d-flex button{
+    border-color: #7C41F2;
+    color: #7C41F2;
+  }
+  .d-flex button:hover {
+    background-color: #7C41F2;
+    border-color:#7C41F2;
+  }
+  .items a{
+    margin-right: 20px;
+    color: #7C41F2;
+  }
+  
+  .tengah {
+    background-image: url('https://images.unsplash.com/photo-1618556450994-a6a128ef0d9d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTM1ODA3ODg&ixlib=rb-1.2.1&q=80');
+  }
+  
+  .tengah .greet {
+    text-align: center;
+    margin-right: 460px;
+    margin-top: 410px;
+    font-size: 20px;
+  }
+  
+  .tengah h1 {
+    text-align: center;
+    font-size: 100px;
+  }
+  .tengah .desc {
+    text-align: center;
+    margin-left: 410px;
+  }
+  
+  .latest {
+    height: 100px;
+  }
+  .latest h3 {
+    margin: 62px;
+    font-size: 40px;
+    margin-bottom: 50px;
+  }
+  .categories {
+    height: 100px;
+  }
+  .categories h3 {
+    margin: 62px;
+    font-size: 40px;
+  }
+  
+  .footer {
+    background: black;
+  }
+  .footer p {
+    margin-left: 30px;
+    margin-top: 40px;
+  }
+  .tengah{
+    height: 1000px;
+  }
+  .header,
+  .footer {
+    height: 100px;
+  }
+  .quotes {
+    height: 500px;
+    background-image: url('https://images.unsplash.com/photo-1653162126007-7ec087750f00?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTM1ODExODY&ixlib=rb-1.2.1&q=80');
+  }
+  .quotes h3 {
+    text-align: center;
+    margin-top: 210px;
+    font-size: 80px;
+  }
+  .quotes .author {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  .medsos {
+    background: #333333;
+    height: 300px;
+  }
+  .medsos .follow {
+    margin: 50px;
+    font-size: 25px
+  }
+  .founder {
+    height: 800px;
+  }
+  .founder img {
+    border-radius: 50%;
+    width: 500px;
+    margin-top: 130px;
+  }
+  .founderinfo h3{
+    font-size:70px;
+    margin-top: 130px;
+    margin-left: 350px;
+  }
+  .founderinfo .name {
+    font-size: 45px;
+    margin-top:50px;
+    color: white;
+  }
+  .founderinfo .title {
+    font-size: 30px;
+    margin-left: 350px;
+    margin-top: 50px;
+  }
+  .founderinfo p {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 350px;
+  }
+  .events h3 {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 30px;
+  }
+  .events {
+    background:black;
+  }
+  .events hr {
+    color: white;
+  }
+  .event1 {
+    background: black;
+  }
+  .event1 .card, .event2 .card, .event3 .card, .event4 .card {
+    margin-left: 70px;
+    margin-top: 100px;
+  }
+  .event1 img {
+    height: 200px;
+  }
+  .event2 {
+    background: black;
+  }
+  .event3 {
+    background: black;
+  }
+  .event4 {
+    background: black;
+  }
+  .event1, .event2, .event3, .event4 {
+    height: 600px;
+  }
+  .cat1 {
+    background-image: url('https://images.unsplash.com/photo-1550831106-2747f0d6a81c?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTQ1MzMyNTk&ixlib=rb-1.2.1&q=80');
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .cat1 h3, .cat2 h3, .cat3 h3 {
+    color: white;
+    margin-top: 190px;
+    font-size: 80px;
+  }
+  .cat2 {
+    background-image: url('https://images.unsplash.com/photo-1549264814-7fe7816d0b2c?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTQ1MzQwMTY&ixlib=rb-1.2.1&q=80');
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .cat3 {
+    background-image: url('https://images.unsplash.com/photo-1583317559082-759fc29fd54f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTQ1MzQyODM&ixlib=rb-1.2.1&q=80');
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .cat1, .cat2, .cat3 {
+    height:500px;
+  }
+  .pod {
+    background-image: url('https://images.unsplash.com/photo-1586076100131-32505c71d0d2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTQ1Mzg5Nzc&ixlib=rb-1.2.1&q=80');
+    height:500px;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .medsos .contents {
+    text-align: center;
+    margin-right: 80px;
+  }
+  
+  .medsos p {
+    display: inline;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  .seeAll {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .seeAll a {
+    color: #7C41F2;
+  }
+  .seeAll a:hover {
+    color: black;
+  }
+  
+  .pod h3 {
+    margin-right: 80px;
+    margin-top: 190px;
+    font-size: 70px;
+    color: white;
+  }
+  
+  .pod svg {
+    margin-top: 30px;
+    width: 60px;
+  }
