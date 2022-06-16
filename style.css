@@ -2,6 +2,10 @@
     padding: 23px;
     vertical-align: middle;
   }
+
+  .cat1 a, .cat2 a, .cat3 a {
+    text-decoration: none;
+  }
   
   .pp {
     width: 50px;
